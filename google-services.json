@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811902541526",
+    "project_id": "saloon-1342"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811902541526:android:9998cbefbe57f416",
+        "android_client_info": {
+          "package_name": "com.example.rahul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811902541526-ls45eaj1ii83i0bo1eflgj7fhaula04g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahul",
+            "certificate_hash": "21B94F1A67A7065A61D17BC9D75A9B060C1D93F2"
+          }
+        },
+        {
+          "client_id": "811902541526-p6lv1rp61siq839h0a9hdslu5p7dk815.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ1-2qmH02CkmGc-sCLBnyiV1Jjo-yta4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
